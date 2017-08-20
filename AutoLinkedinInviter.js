@@ -23,8 +23,7 @@ window.setTimeout(function() {
                   for(person = 0; person < people.length ; person++){
                     people[person].click();
                   }
-                  console.log("lmera");
-                  alert("ffdsfsdf");
+                 
 
                   
                   location.reload();
@@ -32,7 +31,7 @@ window.setTimeout(function() {
                   
                   
                   
-                  },1000)
+                  },10000) /*enter time in milli seconds */
   
   
 
